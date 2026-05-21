@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 #  HostPanel — One-line Installer
-#  Usage: curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/hostpanel/main/install.sh | bash
+#  Usage: curl -sSL https://raw.githubusercontent.com/host-panel-site/hostpanel2026/main/install.sh | bash
 #  Supported: Ubuntu 22.04 / 24.04
 #  Requires: root access, domain pointed to this server
 # ============================================================

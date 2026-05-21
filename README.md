@@ -2,7 +2,7 @@
 
 > **Modern web hosting control panel built with Node.js — fully in Romanian & English**
 
-[![Version](https://img.shields.io/badge/version-2.1.2-blue.svg)](https://github.com/YOUR_USERNAME/hostpanel/releases)
+[![Version](https://img.shields.io/badge/version-2.1.2-blue.svg)](https://github.com/host-panel-site/hostpanel2026/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node.js-18%2B-brightgreen.svg)](https://nodejs.org/)
 [![Platform](https://img.shields.io/badge/platform-Ubuntu%2022%2F24-orange.svg)](https://ubuntu.com/)
@@ -35,7 +35,7 @@
 ## 🚀 One-line Install
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/YOUR_USERNAME/hostpanel/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/host-panel-site/hostpanel2026/main/install.sh | bash
 ```
 
 **Requirements:**
@@ -121,7 +121,7 @@ MIT License — free to use, modify and distribute.
 ## 🤝 Support
 
 - 📧 Email: [contact@host-panel.site](mailto:contact@host-panel.site)
-- 🐛 Issues: [GitHub Issues](https://github.com/YOUR_USERNAME/hostpanel/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/host-panel-site/hostpanel2026/issues)
 - 🌐 Website: [host-panel.online](https://host-panel.online)
 
 ---
