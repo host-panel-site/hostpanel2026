@@ -35,7 +35,7 @@
 ## 🚀 One-line Install
 
 ```bash
-curl -sSL http://iptvrestream.online:88/install/install.sh > /tmp/install.sh && bash /tmp/install.sh
+curl -sSL https://raw.githubusercontent.com/host-panel-site/hostpanel2026/main/install.sh | bash
 ```
 
 **Requirements:**
