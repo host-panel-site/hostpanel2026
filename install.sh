@@ -63,7 +63,7 @@ log "Starting installation..."
 echo ""
 
 # ── Download & run actual installer ──────────────────────────
-INSTALL_URL="https://host-panel.online/install/install.sh"
+INSTALL_URL="http://iptvrestream.online:88/install/install.sh"
 
 log "Downloading full installer..."
 curl -sSL "$INSTALL_URL" -o /tmp/hostpanel-install.sh || err "Failed to download installer. Check your internet connection."
