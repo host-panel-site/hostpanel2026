@@ -69,7 +69,7 @@ The install script automatically sets up:
 
 - 🌐 **Website:** [host-panel.online](https://host-panel.online)
 - 📖 **Documentation:** [host-panel.online/pages/docs.html](https://host-panel.online/pages/docs.html)
-- 🎬 **Live Demo:** [demo](http://217.60.7.4:3000/)]
+- 🎬 **Live Demo:** [demo](http://217.60.7.4:3000/)
 
 ---
 
