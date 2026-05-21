@@ -120,7 +120,7 @@ MIT License — free to use, modify and distribute.
 
 ## 🤝 Support
 
-- 📧 Email: [contact@host-panel.site](mailto:contact@host-panel.site)
+- 📧 Email: [office@host-panel.site](mailto:office@host-panel.site)
 - 🐛 Issues: [GitHub Issues](https://github.com/host-panel-site/hostpanel2026/issues)
 - 🌐 Website: [host-panel.online](https://host-panel.online)
 
