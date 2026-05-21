@@ -73,27 +73,6 @@ The install script automatically sets up:
 
 ---
 
-## 📸 Screenshots
-
-<details>
-<summary>Click to expand screenshots</summary>
-
-**Dashboard**
-> Real-time server stats, domain overview, quick actions
-
-**DNS Manager**
-> Full zone editor with all record types
-
-**SSL Manager**
-> One-click Let's Encrypt + wildcard certificate management
-
-**Multi-user Panel**
-> Isolated user environments with custom subdomains
-
-</details>
-
----
-
 ## 🗺️ Roadmap
 
 - [ ] Docker support
