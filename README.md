@@ -7,7 +7,7 @@
 [![Node.js](https://img.shields.io/badge/node.js-18%2B-brightgreen.svg)](https://nodejs.org/)
 [![Platform](https://img.shields.io/badge/platform-Ubuntu%2022%2F24-orange.svg)](https://ubuntu.com/)
 
-![HostPanel Dashboard](https://panel.host-panel.site:8443/preview.png)
+![HostPanel Dashboard](https://raw.githubusercontent.com/host-panel-site/hostpanel2026/main/screenshot.png)
 
 ---
 
