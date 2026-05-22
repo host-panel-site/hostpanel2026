@@ -19,9 +19,9 @@ echo -e "  ${CYAN}https://host-panel.online${NC}"
 echo ""
 echo -e "  Select installation language / Selecteaza limba:"
 echo -e "  ${BOLD}1)${NC} English"
-echo -e "  ${BOLD}2)${NC} Română"
+echo -e "  ${BOLD}2)${NC} Romana"
 echo ""
-read -p "  Choice / Alegere [1/2]: " LANG_CHOICE
+read -p "  Choice / Alegere [1/2]: " LANG_CHOICE </dev/tty
 
 case "$LANG_CHOICE" in
   2)
@@ -38,4 +38,4 @@ curl -sSL "$INSTALL_URL" > /tmp/hostpanel-install.sh || err "Failed to download.
 chmod +x /tmp/hostpanel-install.sh
 
 echo ""
-bash /tmp/hostpanel-install.sh
+bash /tmp/hostpanel-install.sh </dev/tty
